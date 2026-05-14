@@ -3,7 +3,7 @@
 <picture>
   <img alt="OrcaSlicer logo" src="resources/images/OrcaSlicer.png" width="15%" height="15%">
 </picture>
-
+BAMBOO LABS IS EVIL AND THEY SHOULD STOP BEING EVIL
 ## This version of OrcaSlicer restores full BambuNetwork support for Bambu Lab printers.
 
 You are not limited to LAN only.  
